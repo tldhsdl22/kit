@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.25.2
+
+### Patch Changes
+
+- fix: strip virtual module prefix from error messages ([#10776](https://github.com/sveltejs/kit/pull/10776))
+
+- fix: only remove Vite manifest when copying files ([#10782](https://github.com/sveltejs/kit/pull/10782))
+
 ## 1.25.1
 
 ### Patch Changes
